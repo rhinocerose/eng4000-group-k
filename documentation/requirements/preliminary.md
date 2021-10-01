@@ -1,3 +1,18 @@
+# Problem Statement
+
+### To fill in:
+*For projects with a loosely-defined expression of need, the requirements review must demonstrate that the team 
+has mapped that expression of need into an engineering response suitable to drive the design and development 
+of the solution. The team must demonstrate they have: 
+• Created a complete, coherent set of top-level requirements that captures the needs 
+• Ensured the requirements set use precise language and follow SMART guidelines 
+• Differentiated wants from needs (by removing wants from the requirements, or by capturing them as 
+goals vs. requirements) 
+• Identified a specific, justified source for each requirement 
+• Identified driving requirements for the design 
+• Proposed a preliminary approach to verifying compliance with each requirement at the design phase and 
+the final deliverable phase. *
+
 # Hardware Requirements
 
 ## Existing Hardware to Interface
