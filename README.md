@@ -15,10 +15,8 @@ This is a repository for ENG4000 Group K, Greenhouse Controller.
 |   │   │   ├── controller.sch
 |   │   │   └── controller.brd
 │   │   ├── libraries (any libraries and footprints will go here)
-|   |   |   ├── libraries
-|   |   │   │   └── *.lbr
-|   │   │   └── footprints
-|   │   │       └── *.fpr
+|   |   │   ├── *.lbr
+|   │   │   └── *.fpr
 |   │   ├── production (contains all files used for board manufacturing and assembly)
 |   |   |   ├── bom (contains all BOM files)
 |   |   │   │   └── controller-BOM.csv
