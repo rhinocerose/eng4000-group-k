@@ -24,6 +24,8 @@ This is a repository for ENG4000 Group K, Greenhouse Controller.
 |   │   │       ├── controller-gerbers.zip 
 |   │   │       ├── controller-gerber-components.ger
 |   │   │       └── controller-gerber-drill-files.xln
+│   │   ├── datasheets (datasheets for any components will go here)
+|   │   │   └── *.pdf
 |   │   └── assets (any pictures or 3D renders will go here)
 │   │       ├── images
 |   │       │   ├── *.jpg 
