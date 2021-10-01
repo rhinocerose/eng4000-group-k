@@ -61,8 +61,8 @@ PC-based user interface with the following characteristics:
 # Regulatory Requirements
 
 1. Canadian Standards association (CSA)
-2. Canadian Electrical Code (CEC)
-3. National Fire Code (NFC)
-4. National Building Code (NBC)
-5. Occupational Health and Safety Act (OHSA)
+2. [Canadian Electrical Code (CEC)](https://github.com/rhinocerose/eng4000-group-k/blob/main/documentation/requirements/regulatory/CEC-2021.pdf)
+3. [National Fire Code (NFC)](https://github.com/rhinocerose/eng4000-group-k/blob/main/documentation/requirements/regulatory/NFC-2015.pdf)
+4. [National Building Code (NBC)](https://github.com/rhinocerose/eng4000-group-k/blob/main/documentation/requirements/regulatory/NBC-2015.pdf)
+5. [Occupational Health and Safety Act (OHSA)](https://www.ontario.ca/laws/statute/90o01)
 6. Canadian Electrical License (309 A)
