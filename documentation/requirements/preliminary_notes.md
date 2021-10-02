@@ -11,6 +11,16 @@
 
 This project aims to create a greenhouse controller that has the capability of controlling outputs to maintain desired environmental conditions in a greenhouse. It will interface with existing greenhouse environmental control hardware by providing control signals to activate or deactivate climate control devices. 
 
+# Capabilites
+
+## What It Will Do
+- Control assignable outputs in response to assignable sensor inputs
+- Selectable output weight with respect to measurements
+
+## What It Will Not Do
+- Communicate with other controllers
+
+
 # Controlled Parameters
 
 ## Temperature
