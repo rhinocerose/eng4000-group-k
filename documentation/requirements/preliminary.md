@@ -92,3 +92,34 @@ PC-based user interface with the following characteristics:
 4. [National Building Code (NBC)](https://github.com/rhinocerose/eng4000-group-k/blob/main/documentation/requirements/regulatory/NBC-2015.pdf)
 5. [Occupational Health and Safety Act (OHSA)](https://www.ontario.ca/laws/statute/90o01)
 6. Canadian Electrical License (309 A)
+
+# Design Considerations
+
+## SBC vs Microcontroller
+
+### SBC Considerations
+There are advantages to using a single board computer (SBC) like a Raspberry Pi, Beaglebone, or Nvidia Jetson, but there are also drawbacks.
+#### SBC Pros
+- commercial availability widespread
+- multi-language programmability
+- simplicity of networking and data transfer
+
+#### SBC Cons
+- inherently higher level
+- overhead of OS
+- less direct access to peripherals
+- more complex board design
+
+### Microcontroller Considerations
+There are advantages to using a microcontroller , but there are also drawbacks.
+#### Microcontroller Pros
+- low part cost
+- flexibility in sourcing
+- integrated operation
+- defined extensibility
+
+#### Microcontroller Cons
+- availability of individual components can constrain manufacture
+- single-use board design can be susceptible to design flaws
+
+## Multi-node Aggregation vs Standalone Operation
