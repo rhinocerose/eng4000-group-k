@@ -9,6 +9,8 @@
 - Identified driving requirements for the design 
 - Proposed a preliminary approach to verifying compliance with each requirement at the design phase and the final deliverable phase.
 
+This project aims to create a greenhouse controller that has the capability of controlling outputs to maintain desired environmental conditions in a greenhouse. It will interface with existing greenhouse environmental control hardware by providing control signals to activate or deactivate climate control devices. 
+
 # Hardware Requirements
 
 ## Existing Hardware to Interface
@@ -56,6 +58,14 @@
 - temperature sensor
 - CO2 Sensor
 - 16 Relays per controller
+- Housing for controller
+- Touch-screen TFT control
+- Test-points for monitoring signals
+- Ports for remote sensing (RJ45 or Terminal Headers)
+- Laid out as proper PCB
+- Remote sense probes with selectable inputs
+- Data storage for historical measurements
+
 
 
 # Software Requirements
