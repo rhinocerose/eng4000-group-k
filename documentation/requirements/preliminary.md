@@ -86,6 +86,8 @@ All user interaction will happen via a touch-screen interface which will allow f
 - Remote sense probes with selectable inputs
 - Data storage for historical measurements
 
+## Power Source
+**We don't know if there is a DC power supply. Perhaps a wide-range DC input or worst case scenario power off of AC mains.**
 
 
 # Software Requirements
