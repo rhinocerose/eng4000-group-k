@@ -14,7 +14,7 @@ This project aims to create a greenhouse controller that has the capability of c
 # Controlled Parameters
 
 ## Temperature
-The temperature will be monitored by a remote sensor, and the feedback from it will be used to control the temperature remains within a user-definable band by controlling a series of relays. The relays can be used to provide control signals for fans, vent control, surtains, or any other device than can be used to maodify temperatures in the greenhouse. The behavior and duty cycle of the the output can be user defined so as to make it output agnostic and extensible.
+The temperature will be monitored by a remote sensor, and the feedback from it will be used to control the temperature remains within a user-definable band by controlling a series of relays. The relays can be used to provide control signals for fans, vent control, surtains, or any other device than can be used to modify temperatures in the greenhouse. The behavior and duty cycle of the the output can be user defined so as to make it output agnostic and extensible.
 
 # Hardware Requirements
 
