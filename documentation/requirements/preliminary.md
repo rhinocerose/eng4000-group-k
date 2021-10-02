@@ -16,6 +16,21 @@ This project aims to create a greenhouse controller that has the capability of c
 ## Temperature
 The temperature will be monitored by a remote sensor, and the feedback from it will be used to ensure the temperature remains within a user-definable band by controlling a series of relays. The relays can be used to provide control signals for fans, vent control, curtains, or any other device than can be used to modify temperatures in the greenhouse. The behavior and duty cycle of the the output can be user defined so as to make it output agnostic and extensible.
 
+## Humidity
+
+## CO2 Concentration
+
+## Solar Radiation
+
+# Interface
+
+All user interaction will happen via a touch-screen interface which will allow for the following:
+- sensor assignment and calibration
+- hysteresis band settings
+- output response
+- historical data recovery
+- measurement monitoring
+
 # Hardware Requirements
 
 ## Existing Hardware to Interface
